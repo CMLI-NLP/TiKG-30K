@@ -80,7 +80,6 @@ TiKG-30K 是一个基于表示学习的藏语知识图谱数据集，包含了14
 
 - [论文链接](https://aclanthology.org/2023.ccl-1.13/)
 - [数据集网站](https://tikg-30k.cmli-nlp.com/)
-- [CCL 2023会议](https://aclanthology.org/volumes/2023.ccl-1/)
 
 ## 许可证
 
