@@ -90,7 +90,3 @@ TiKG-30K 是一个基于表示学习的藏语知识图谱数据集，包含了14
 如有任何问题，欢迎通过以下方式联系我们：
 
 - 邮箱：tracy.yuan.sun@gmail.com
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/TiKG-30K&type=Date)](https://star-history.com/#yourusername/TiKG-30K&Date)
