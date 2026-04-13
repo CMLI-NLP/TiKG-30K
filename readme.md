@@ -60,7 +60,7 @@ TiKG-30K 是一个基于表示学习的藏语知识图谱数据集，包含了14
 
 您可以通过以下方式获取TiKG-30K数据集：
 
-1. 访问官方网站: [https://tikg-30k.cmli-nlp.com/](https://tikg-30k.cmli-nlp.com/)
+本仓库中的```TiKG-30K.zip```。
 
 ## 引用
 
